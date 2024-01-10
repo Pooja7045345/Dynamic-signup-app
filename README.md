@@ -7,9 +7,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### npm
 
 ```
-npm i
+npm install
 or
-npm i --legacy-peer-deps
+npm install --legacy-peer-deps
 ```
 
 ### yarn
